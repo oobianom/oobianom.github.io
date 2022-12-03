@@ -1,7 +1,7 @@
 # Hi there 👋
 # My name is Obi Obianom
 
-**I am an Assistant Director ✨ at Simulations Plus Inc. I am also a freelance software developer with 12+ years of experience ✨ 
+__I am an Assistant Director ✨ at Simulations Plus Inc. I am also a freelance software developer with 12+ years of experience ✨__
 
 Here are some things you may like to know about me:
 
